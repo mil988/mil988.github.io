@@ -38,6 +38,7 @@
 		}
 		
 		p {
+			    		z-index: 2;
 			padding-right: 420px; 
 			font-family: MikadoRegular;
 			src: url("MikadoRegular.otf");
