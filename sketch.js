@@ -5,6 +5,7 @@ function setup() {
 
 function draw() {
   background(0, 120, 0);
+  noStroke();
   fill(180, 0, 100, random(255));
   background(255, 120, 0);
   fill(180, 0, 100, random(25));
