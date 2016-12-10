@@ -39,11 +39,11 @@
 		
 		p {
 			z-index: 2;
-			padding-right: 800px; 
+			padding-right: 420px; 
 			font-family: MikadoRegular;
 			src: url("MikadoRegular.otf");
 			line-height: 0.95rem;
-			font-size: 17px;
+			font-size: 14px;
 			text-align: right;
 		}
 
