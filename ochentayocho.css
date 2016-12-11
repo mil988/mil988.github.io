@@ -47,6 +47,16 @@
 			text-align: right;
 		}
 
+		ps {
+			z-index: 2;
+			padding-right: 420px; 
+			font-family: MikadoRegular;
+			src: url("MikadoRegular.otf");
+			line-height: 0.06rem;
+			font-size: 12px;
+			text-align: right;
+		}
+
 	@font-face {
 			font-family: MikadoRegular;
 			src: url("MikadoRegular.otf");
