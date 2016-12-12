@@ -1,3 +1,7 @@
+head {
+    background-color: rgba(46, 240, 222);
+}
+
   		img {
    			z-index:2;
    			position: fixed;
